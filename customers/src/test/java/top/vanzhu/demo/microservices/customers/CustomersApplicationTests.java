@@ -1,4 +1,4 @@
-package top.vanzhu.demo.microservices;
+package top.vanzhu.demo.microservices.customers;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
